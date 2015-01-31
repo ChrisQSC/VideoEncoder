@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Message Version="1.0">
+  <Info evaluateType="1" mediaFile="SP1" />
+  <Items>
+    <Item imageName="1.jpg" >
+      <Label type="1" l="1" t="1" r="10" b="10"/>
+      <Label type="1" l="11" t="11" r="20" b="20"/>
+    </Item>
+    <Item imageName="2.jpg" >
+      <Label type="1" l="11" t="11" r="20" b="20"/>
+      <Label type="1" l="21" t="21" r="30" b="30"/>
+    </Item>
+  </Items>
+</Message>

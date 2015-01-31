@@ -1,0 +1,1 @@
+"D:\Program Files\ffmpeg\bin\ffmpeg.exe" -y -i "D:/Program Files/Apache Software Foundation/Apache2.4/htdocs/files/Clip_1080_5sec_10mbps_h264.mp4" -vcodec h264 -b 600000 -s 640x360 "D:\Github\VideoEncoder\basic\web\files\low\5c3f6fcd49941b6c304ebe6c76effc4a.mp4"

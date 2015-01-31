@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Message Version="1.0">
+    <Info evaluateType="4" mediaCount="3" meidiaFile="yyy" />
+    <Items VideoName="TestData\MultiPedestrianTracking\2.avs">
+        <Item frameNum="21">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+        <Item frameNum="22">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+		<Item frameNum="23">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+    </Items>
+    <Items VideoName="TestData\MultiPedestrianTracking\3.avs">
+        <Item frameNum="31">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+        <Item frameNum="32">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+		<Item frameNum="33">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+	    <Item frameNum="34">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+    </Items>
+    <Items VideoName="TestData\MultiPedestrianTracking\1.avs">
+        <Item frameNum="11">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+        <Item frameNum="12">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+	    <Item frameNum="13">
+            <Label id="0" type="2" l="111" t="111" r="111" b="111" />
+            <Label id="0" type="0" l="222" t="222" r="222" b="222" />
+        </Item>
+    </Items>
+</Message>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Message Version="1.0">
+  <Info evaluateType="3" mediaFile="x" />
+	<Items>
+	  <Item frameNum="1" >
+		  <Label type="1" l="1" t="1" r="10" b="10" id="1"/>
+		  <Label type="1" l="11" t="11" r="20" b="20" id="2"/>
+		  <Label type="3" l="221" t="221" r="230" b="230" id="3"/>
+	  </Item>
+	  <Item frameNum="190" >
+		  <Label type="1" l="1" t="1" r="10" b="10" id="1"/>
+		  <Label type="1" l="11" t="11" r="20" b="20" id="2"/>
+		  <Label type="1" l="21" t="21" r="30" b="30" id="3"/>
+      </Item>
+    </Items>
+</Message>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Message Version="1.0">
+  <Info evaluateType="6" />
+  <!--
+    pic:图片文件编号
+  -->
+  <Items imageName="1" >
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+  </Items>
+  <Items imageName="2" >
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+    <Label type="1" l="1" t="1" r="99" b="99"/>
+  </Items>
+</Message>

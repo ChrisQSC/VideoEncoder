@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Message Version="1.0">
+  <Info evaluateType="7" />
+  <Items>
+    <Item pic="1" id="1"/>
+    <Item pic="2" id="2"/>
+    <Item pic="3" id="3"/>
+    <Item pic="4" id="4"/>
+    <Item pic="5" id="5"/>
+    <Item pic="6" id="6"/>
+    <Item pic="7" id="7"/>
+    <Item pic="8" id="8"/>
+    <Item pic="9" id="9"/>
+    <Item pic="10" id="10"/>
+  </Items>
+</Message>

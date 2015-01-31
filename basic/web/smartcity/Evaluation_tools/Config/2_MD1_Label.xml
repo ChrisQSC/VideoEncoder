@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Message Version="1.0">
+  <!--
+    evaluateType:测试类型
+    mediaFile:文件集目录,下面存放多个图片文件
+  -->
+  <Info evaluateType="2" mediaFile="MD1" />
+  <Items>
+    <!--
+      type:目标类别
+      pos:帧号
+      l:左上X
+      t:左上Y
+      r:右下X
+      b:右下Y
+    -->
+    <Item imageName="1.jpg" >
+      <Label type="1" l="1" t="1" r="10" b="10"/>
+      <Label type="2" l="11" t="11" r="20" b="20"/>
+      <Label type="0" l="21" t="21" r="30" b="30"/>
+    </Item>
+    <Item imageName="2.jpg" >
+      <Label type="0" l="1" t="1" r="10" b="10"/>
+      <Label type="1" l="11" t="11" r="20" b="20"/>
+      <Label type="2" l="21" t="21" r="30" b="30"/>
+    </Item>
+  </Items>
+</Message>

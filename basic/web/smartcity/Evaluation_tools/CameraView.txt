@@ -1,0 +1,8 @@
+dongcemen_6_1280x720_30_R1             4 164 1273 554
+dongnanmen_1_1280x720_30_R1            8 201 1267 518
+weiminghudong_7_1280x720_30_R1         77 210 918 508
+yaoganqian_5_1280x720_30_R1            242 167 1038 549
+hongsilounorth_13_1920x1080_30_R1      380 245 1270 830
+hongsilouwest_14_1920x1080_30_R1       260 230 1600 845
+weiminghubeieast_11_1920x1080_30_R1    430 220 1120 860
+weiminghubeiwest_12_1920x1080_30_R1    130 120 1370 960

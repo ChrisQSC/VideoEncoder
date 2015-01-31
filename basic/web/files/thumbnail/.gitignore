@@ -1,0 +1,9 @@
+*.jpg
+*.rmvb
+*.mp4
+*.wmv
+thumbnail/*.jpg
+high/*.mp4
+low/*.mp4
+mid/*.mp4
+raw/*.mp4
